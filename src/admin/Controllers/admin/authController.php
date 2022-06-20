@@ -10,6 +10,7 @@ use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Hash;
 use liondev\setting_admin\function\image;
 
+
 class authController extends Controller
 {
     public function index()
